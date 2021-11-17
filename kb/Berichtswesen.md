@@ -1,6 +1,6 @@
 ---
 title: Berichtswesen
-tags: Berichtswesen Reporting
+tags: Berichtswesen, Reporting
 author: FerdinandMerbecks
 anrechnung: (k)
 ---
